@@ -62,10 +62,83 @@
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/ef81feb2-b725-42e2-9925-d3ca3897c287" alt="Seção de orçamento"><br>
+  <div>
+    
+>    Após o cadastro das informações referentes a tatuagem, aparece uma mensagem ao usuário, pedindo que o usuário fique atento ao email.
 
->    Após o cadastro das informações referentes a tatuagem, aparece uma mensagem ao usuário, pedindo que o usuário fique atento ao email.<br><br>
+  </div>
+    <br>
 </div>
 
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/40a803df-996b-4f01-bf7a-b153853a03c9" alt="Tela de login"><br>
+  <div>
+
+>    Tela de login de administrador
+
+  </div>
+    <br>
+</div>
+
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/0e6282c5-ad8f-441b-a844-e91cd552cddc" alt="Tela de estoque de produtos "><br>
+  <div>
+
+>   Tela de estoque de produtos. 
+
+  </div>
+    <br>
+</div>
+
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/1e8b93f8-d4bd-4ff7-9c5c-bb6bb8efd771" alt="Tela de estoque com modal de cadastrar produtos"><br>
+  <div>
+
+>   Tela de estoque com modal de cadastrar produtos. 
+
+  </div>
+    <br>
+</div>
+
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/dc4f2926-f1ce-4eea-9a78-4f87afb52cec" alt="Tela de estoque com modal de editar ou excluir produtos"><br>
+  <div>
+
+>   Tela de estoque com modal de editar ou excluir produtos. 
+
+  </div>
+    <br>
+</div>
+
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/46a29c30-eec1-4732-a6b0-11bc6b208bab" alt="Tela de gerenciamento de sessões"><br>
+  <div>
+
+>   Tela de gerenciamento de sessões. 
+
+  </div>
+    <br>
+</div>
+
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/a275938c-ba08-4a06-8542-342cae167d11" alt="Tela de gerenciamento de sessões com modal de cadastrar sessão aberto"><br>
+  <div>
+
+>   Tela de gerenciamento de sessões com modal de cadastrar sessão aberto. 
+
+  </div>
+    <br>
+</div>
+
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/39bb3133-2126-4c20-8b25-b027590322d7" alt="Tela de gerenciamento de sessões com modal de editar sessão aberto"><br>
+  <div>
+
+>   Tela de gerenciamento de sessões com modal de editar sessão aberto. 
+
+  </div>
+    <br>
+</div>
 
 ## 🎨 Tecnologias Utilizadas
 <p align="left">
