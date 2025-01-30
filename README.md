@@ -12,51 +12,82 @@
 <h2>▶️ Software em ação</h2>
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/f9b557cb-5a39-46ee-9f63-bca935fa8396" alt="Primeira seção da página, seção inicial"/><br>
+    <div>
 
 >    Primeira seção da página, seção inicial.<br>
-    <br>
+
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/98818c04-3eb7-4531-bd6c-31276b9697f5" alt="Seção de galeria de fotos de tatuagens já feitas"><br>
+    <div>
 
->    Seção de galeria de fotos de tatuagens já feitas.<br><br>
+>    Seção de galeria de fotos de tatuagens já feitas.
+
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/f92c32a5-100e-4741-92a0-6bfdab7e1754" alt="Seção com informações sobre a tatuadora"><br>
+    <div>
 
->    Seção com informações sobre a tatuadora.<br><br>
+>    Seção com informações sobre a tatuadora.
+
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/fe2deb89-ea4e-4dc6-bf17-dc6ae153d779" alt="Seção com depoimentos de clientes"><br>
+   <div>
 
->    Seção com depoimentos de clientes.<br><br>
+>    Seção com depoimentos de clientes.
+
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/3620761f-a2b0-4cf3-8a7e-20a67c2e64e6" alt="Seção com informações do studio"><br>
+    <div>
+    
+>    Seção com informações do studio.
 
->    Seção com informações do studio.<br><br>
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/d48f18c1-d4cf-479a-9ec8-c1397dad0e19" alt="Seção com fotos do studio"><br>
+    <div>
 
->    Seção com fotos do studio.<br><br>
+>    Seção com fotos do studio.
+   
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/a5fa55d6-daa2-49bb-ae96-fc7089eedc3f" alt="Seção de orçamento"><br>
+    <div>
 
->    Seção de orçamento.<br><br>
+>    Seção de orçamento.
+
+   </div>
+   <br>
 </div>
 
 <div align='center'>
     <img src="https://github.com/user-attachments/assets/d8d5ef43-755b-4234-afa7-598166c23372" alt="Seção de orçamento"><br>
+   <div>
 
->    Após o cadastro das primeiras informações na seção de orçamento, há as opções de inserir as informações referentes a tatuagem desejada.<br><br>
+>    Após o cadastro das primeiras informações na seção de orçamento, há as opções de inserir as informações referentes a tatuagem desejada.
+
+   </div>
+   <br>
 </div>
 
 
