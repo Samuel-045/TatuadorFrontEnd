@@ -1,26 +1,27 @@
 # FrontEnd tatuador🩸
+<p align='center'>
+    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-blue">
+</p>
 
+
+<h2>📝Descrição</h2>
 Este é o repositório do front-end para o site de um tatuador, desenvolvido para fornecer uma experiência intuitiva e visualmente atrativa para clientes que desejam conhecer os trabalhos, entrar em contato e agendar sessões.
 
 ![Dribbble](https://github.com/user-attachments/assets/20b2cac2-a2b0-4a64-b9ec-30bc7d2f6816)
 
 ## 🎨 Tecnologias Utilizadas
-HTML: Estrutura básica do site.
-
-SCSS: Estilização e layout responsivo.
-
-JavaScript: Interatividade e funcionalidades dinâmicas.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/SCSS-white?style=for-the-badge&logo=sass&logoColor=blue">
+  <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=white&color=black">
+</p>
 
 ## 🖥️ Funcionalidades
-Exibição de portfólio: Galeria com os trabalhos do tatuador.
+- `Exibição de portfólio` : Galeria com os trabalhos do tatuador.
 
-Formulário de contato: Permite aos clientes enviar email diretamente.
+- `Formulário de contato` : Permite aos clientes enviar email diretamente.
 
-Sessão sobre o tatuador: Informações sobre o artista e seu estilo.
-
-Agendamento online: Ferramenta para marcar sessões
-
-Gerenciamento de estoque: Ferramenta para gerenciar o estoque do estúdio.
+- `Sessão sobre o tatuador` : Informações sobre o artista e seu estilo.
 
 
 ## Contribuidores 🧑‍💻👩‍💻🧑‍💻
